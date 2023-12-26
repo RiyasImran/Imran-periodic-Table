@@ -1,2 +1,3 @@
 # Imran-periodic-Table
-I created this repository to easly acces the periodic website 
+This Website is a visual apperance of periodic table in how its look like in students books.<br>
+Tech Stack: `HTML` and `CSS`
